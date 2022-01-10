@@ -1,0 +1,46 @@
+<html>
+<head>
+	<title>Aristotle Onassis</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<header>
+	<center>
+		<div class="main">
+		<h1>Aristotle Onassis</h1>
+		<br>
+		<h3>1906 - 1975</h3>
+		<br>
+		<h4>One of the richest people in 20th century</h4> <br>
+		<div style="width:1000px;height:50px;border:1px solid=#fff;">Aristotle Socrates Onassis (/oʊˈnæsɪs/, US also /-ˈnɑː-/;[1] Greek: Αριστοτέλης Ωνάσης, romanized: Aristotélis Onásis, pronounced [aristoˈtelis oˈnasis]; 20 January 1906 – 15 March 1975),[2] was a Greek[3][4] shipping magnate who amassed the world's largest privately-owned shipping fleet and was one of the world's richest men. </div>
+		<br>
+		<img src="Aristotle_Onassis_1967cr.jpg" width="350px" height="400px" alt="Avatalistr"> <br> <br>
+	
+		<div>
+			<ul> <b> The following list is a timeline of Onassis Life. </b> <br> 
+				<li><b>1906</b> - born in Karataş, a suburb of the port city of Smyrna. </li>
+				<li><b>1922</b> - He left Smyrna during the great fire of Smyrna in 1922. </li>
+				<li><b>1932</b> - He went to Buenos Aires, Argentina and start working as telephone operator. </li>
+				<li><b>1939</b> - He relocated to New York and started his shipping businesses. </li>
+				<li><b>1946</b> - Onassis married Athina Livanos. </li>
+				<li><b>1968</b> - Onassis announced the launch of Project Omega. </li>
+				<li><b>1975</b> - Onassis died at the age of 69, on 15th March 1975. </li>
+			</ul>
+		</div>
+			<!--<ul>
+				<li><a href="#">main</a></li>
+			</ul>
+	
+	<center>
+	<h1> Aristotle Onassis </>
+		
+	</h1>
+	<hr size="5">
+	
+	<h3> 1906 - 1975 </h3>
+		One of the richest people in 20th century
+		-->
+	
+	</center>
+</body>	
+</html>
