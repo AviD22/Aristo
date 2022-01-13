@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+	background-color: grey;
+}
+/*
+*main{
+	padding: 10;
+}
+*/
+img{
+	border-radius: 50%;
+}
+
+ul{
+	text-align: left;
+	margin: 10;
+	padding-left: 200;
+}
